@@ -1,0 +1,1 @@
+# This was a fun project to do. I finished it while i was at Semos Academy for Javascript fullstack academy as a practice for the module HTML, CSS and Javascript. It is fully responsiv using media queries with CSS. It is about showcasing my favorite aircraft F-22 Raptor.
